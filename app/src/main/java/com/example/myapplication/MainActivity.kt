@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         val textViewTest:TextView = findViewById(R.id.tVTest)
         textViewTest.text = "1st lesson"
+        textViewTest.textSize = 20F // first commit
     }
 }
