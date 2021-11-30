@@ -24,6 +24,7 @@ class MainActivity : AppCompatActivity() {
         button.text = "New branch" // 3rd branch
         /*rebase*/
         /*3rd merge*/
+        
 
     }
 }
