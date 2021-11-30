@@ -19,6 +19,6 @@ class MainActivity : AppCompatActivity() {
 
         button.text = "Knopa"
         button.setBackgroundColor(Color.GREEN)// first commit for button_branch
-        
+        button.setTextColor(Color.RED)// 2nd commit in button branch
     }
 }
