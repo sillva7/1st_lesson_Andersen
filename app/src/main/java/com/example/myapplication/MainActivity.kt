@@ -22,6 +22,7 @@ class MainActivity : AppCompatActivity() {
         button.setTextColor(Color.RED)// 2nd commit in button branch
 
         button.text = "New branch" // 3rd branch
+        /*rebase*/
 
     }
 }
