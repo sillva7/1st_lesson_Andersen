@@ -1,5 +1,6 @@
 package com.example.myapplication
 
+import android.graphics.Color
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
@@ -17,5 +18,7 @@ class MainActivity : AppCompatActivity() {
         textViewTest.textSize = 20F // first commit
 
         button.text = "Knopa"
+        button.setBackgroundColor(Color.GREEN)// first commit for button_branch
+        
     }
 }
